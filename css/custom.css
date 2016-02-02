@@ -28,6 +28,6 @@ a:hover { color: #4B58A6; }
 canvas {-ms-touch-action: double-tap-zoom;}
 
 /* customizations for iframe template */
-.iframe #map_canvas { height: 500px; }
+.iframe #map_canvas { height: 400px; }
 .iframe .well { margin-bottom: 5px; }
 .iframe .alert { margin-top: 5px; }
